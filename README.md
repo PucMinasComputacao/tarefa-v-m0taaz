@@ -23,3 +23,12 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+
+# Rafael Mota Azevedo
+## Matrícula: 918434
+
+![Print1 Desktop](public/imagens/Screenshot_12.png)
+![Print2 Desktop](public/imagens/Screenshot_13.png)
+![Print1 Mobile](public/imagens/Screenshot_14.png)
+![Print2 Mobile](public/imagens/Screenshot_15.png)
+![Print3 Mobile](public/imagens/Screenshot_16.png)

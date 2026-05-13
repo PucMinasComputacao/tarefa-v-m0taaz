@@ -219,6 +219,8 @@ footer h2 {
     }
 }
 
+/* Responsividade Extra */
+
 @media (max-width: 768px) {
     .artigo img {
     width: 150px;
